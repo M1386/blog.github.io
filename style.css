@@ -1,0 +1,135 @@
+.Website{
+    text-align: right;
+    background: rgb(107, 107, 245);
+}
+.Website li{
+    padding: 20px;
+    display: inline-block;
+    font-size: 20px;
+}
+.Website li a {
+    color:white;
+}
+
+.box{
+    width: 602px;
+    height: 608px;
+    border: 5px solid black;
+    margin: 20px auto;
+    background-color: rgb(108, 108, 250);
+}
+
+.item1 img {
+    height:200px  ;
+    width: 200px;
+        position: relative; 
+    left: 02px;
+    top: 2px;
+}
+.item2 img{
+    height:200px ;
+    width:200px;
+    position: relative;
+    left: 400px;
+bottom: 202px;
+}
+.item3 img{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 200px;
+    bottom: 205px;
+}
+.item4 img{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    bottom: 207px;
+    left:2px;
+}
+.item5 img{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    bottom: 411px;
+    left: 400px;
+
+}
+.box1{
+    width: 1000px;
+    height: 1000px;
+    border: 5px solid white;
+    margin: 20px auto;    
+}
+.item6 img{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 975px;
+    top: 1656px;
+
+}
+.item7 img{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 175px;
+    top: 854px;
+}
+.item8 img{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 776px;
+    top: 1055px;
+}
+.item9 img{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left:576px;
+    top: 1255px;
+}
+.item10 img{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 376px;
+    top: 1455px ;
+}
+.item11 img{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 175px;
+    top: 1655px;
+}
+.item12 img{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 975px;
+    top: 854px ;
+}
+.item13 img {
+    position: absolute;
+    left:375px ;
+    top: 1055px ;
+    height: 200px;
+    width: 200px;
+}
+.item14 img{
+    height: 200px;
+    width: 200px; 
+    position: absolute;
+    left: 776px;
+    top: 1455px ;
+}
+
+
+
+
+
+
+
+
